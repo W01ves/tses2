@@ -1,0 +1,7 @@
+﻿D:\Visual studio\community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(调试.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  test.c
+e:\project\调试8.13\调试\test.c(314): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+e:\project\调试8.13\调试\test.c(321): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+e:\project\调试8.13\调试\test.c(336): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+e:\project\调试8.13\调试\test.c(343): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+e:\project\调试8.13\调试\test.c(351): error C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
